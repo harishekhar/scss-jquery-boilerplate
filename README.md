@@ -1,3 +1,6 @@
+
+[![Build Status](https://travis-ci.org/harishekhar/scss-jquery-boilerplate.svg?branch=master)](https://travis-ci.org/harishekhar/scss-jquery-boilerplate)
+
 # SCSS jQuery Boilerplate
 
 **Start your interview assignment/prototype in seconds**
