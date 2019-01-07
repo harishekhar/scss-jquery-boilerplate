@@ -4,7 +4,7 @@
   "description": "A basic boilerplate with webpack, jquery and sass preprocessor. It can serve for quick start your interview assignment or a prototype of an application. Not recommended for production applications.",
   "main": "./src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"No test specified\" && exit 0",
     "start": "webpack-dev-server --env.NODE_ENV=development --hot",
     "build": "webpack --env.NODE_ENV=production --config  webpack.config.js"
   },
