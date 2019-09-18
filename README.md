@@ -1,6 +1,5 @@
 
-[![Build Status](https://travis-ci.org/harishekhar/scss-jquery-boilerplate.svg?branch=master)](https://travis-ci.org/harishekhar/scss-jquery-boilerplate)  [![Coverage Status](https://coveralls.io/repos/github/harishekhar/scss-jquery-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/harishekhar/scss-jquery-boilerplate?branch=master)
-
+[![Build Status](https://travis-ci.org/harishekhar/scss-jquery-boilerplate.svg?branch=master)](https://travis-ci.org/harishekhar/scss-jquery-boilerplate)  
 
 # SCSS jQuery Boilerplate
 
